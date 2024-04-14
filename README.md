@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
+
 <h1 align="center">Hi 👋, I'm Sudhakar Pandey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp?cid=790b7611rt7trwajqidhu5nqs6edxs6payt8wce9iloxa09p&ep=v1_gifs_search&rid=giphy.webp&ct=g">
