@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi, I'm Sudhakar Pandey 👋</h1>
 
 <h3 align="center">
@@ -585,6 +585,4 @@ that combine intelligent reasoning with reliable software engineering.
 <p align="center">
   ⭐ If you find my projects interesting, feel free to explore my repositories.
 </p>
-```
 
-**Note:** GitHub README ke andar arbitrary CSS (`<style>...</style>`) lagana reliable nahi hai, isliye maine GitHub-safe HTML/Markdown design use kiya hai. Is version mein **Job Portal nahi hai**, aur **AI Multi-Agent Knowledge Assistant sabse prominent project** hai.
