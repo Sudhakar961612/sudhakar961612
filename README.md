@@ -1,19 +1,17 @@
+````markdown
+<div align="center">
 
-<h1 align="center">Hi, I'm Sudhakar Pandey 👋</h1>
+# Hi, I'm Sudhakar Pandey 👋
 
-<h3 align="center">
-AI Full-Stack Engineer · Generative AI · Multi-Agent Systems · RAG · Agentic Applications
-</h3>
+### AI Full-Stack Engineer · Generative AI · Multi-Agent Systems · RAG · Agentic Applications
 
-<p align="center">
-  <strong>
-    Building production-oriented AI applications that combine LLMs,
-    intelligent agents, retrieval systems, automation, APIs, and modern
-    full-stack technologies.
-  </strong>
+<p>
+Building production-oriented AI applications that combine
+<strong>LLMs, intelligent agents, retrieval systems, automation, APIs,
+and modern full-stack technologies.</strong>
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/sudhakar-pandey-929638188">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,13 +23,13 @@ AI Full-Stack Engineer · Generative AI · Multi-Agent Systems · RAG · Agentic
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhakar961612&label=Profile%20Views&color=2563EB&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sudhakar961612&label=Profile%20Views&color=2563EB&style=flat" />
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm an **AI Full-Stack Engineer** focused on building intelligent applications
 using **Generative AI, LLMs, Multi-Agent Systems, RAG pipelines, and modern
@@ -63,77 +61,95 @@ application.
 
 ---
 
-# 🧠 AI Engineering Profile
+<div align="center">
 
-<table>
+## 🧠 AI Engineering Profile
+
+</div>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### Generative AI
+<h3 align="center">🤖 Generative AI</h3>
 
-- LLM Applications
-- RAG Systems
-- AI Agents
-- Multi-Agent Systems
-- Agentic Workflows
-- Prompt Engineering
-- LLM APIs
-- AI Orchestration
+<p align="center">
+LLM Applications<br>
+RAG Systems<br>
+AI Agents<br>
+Multi-Agent Systems<br>
+Agentic Workflows<br>
+Prompt Engineering<br>
+LLM APIs<br>
+AI Orchestration
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Full-Stack Engineering
+<h3 align="center">⚙️ Full-Stack Engineering</h3>
 
-- React.js
-- Node.js
-- Express.js
-- REST APIs
-- Authentication
-- RBAC
-- MongoDB
-- SQL
+<p align="center">
+React.js<br>
+Node.js<br>
+Express.js<br>
+REST APIs<br>
+Authentication<br>
+RBAC<br>
+MongoDB<br>
+SQL
+</p>
 
 </td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### AI Infrastructure
+<h3 align="center">🧩 AI Infrastructure</h3>
 
-- LangChain
-- LangGraph
-- Qdrant
-- Redis
-- AWS S3
-- Gemini
-- Groq
-- OpenRouter
+<p align="center">
+LangChain<br>
+LangGraph<br>
+Qdrant<br>
+Redis<br>
+AWS S3<br>
+Google Gemini<br>
+Groq<br>
+OpenRouter
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Automation & Deployment
+<h3 align="center">☁️ Automation & Deployment</h3>
 
-- Playwright
-- Docker
-- Git
-- GitHub
-- Vercel
-- Render
-- Linux
-- Production Debugging
+<p align="center">
+Playwright<br>
+Docker<br>
+Git<br>
+GitHub<br>
+Vercel<br>
+Render<br>
+Linux<br>
+Production Debugging
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<div align="center">
+
 # 🚀 Featured Projects
+
+</div>
 
 ## 🧠 AI Multi-Agent Knowledge Assistant
 
@@ -167,47 +183,53 @@ LLM providers** to build an intelligent knowledge assistant.
 
 ### 🏗️ Architecture
 
+<div align="center">
+
 ```text
-                         ┌───────────────────────┐
-                         │     React Frontend    │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                         ┌───────────────────────┐
-                         │     API / Services    │
-                         └───────────┬───────────┘
-                                     │
-                    ┌────────────────┼────────────────┐
-                    │                │                │
-                    ▼                ▼                ▼
-             ┌────────────┐  ┌────────────┐  ┌────────────┐
-             │ Agent      │  │ Chat       │  │ File       │
-             │ Service    │  │ Service    │  │ Service    │
-             └─────┬──────┘  └────────────┘  └────────────┘
-                   │
-                   ▼
-          ┌─────────────────────┐
-          │ LangGraph Workflow  │
-          │ Multi-Agent System   │
-          └──────────┬──────────┘
-                     │
-             ┌───────┼────────┐
-             │       │        │
-             ▼       ▼        ▼
-          Gemini    Groq   OpenRouter
-             │
-             ▼
-      ┌───────────────────┐
-      │    RAG Pipeline   │
-      └─────────┬─────────┘
-                │
-          ┌─────┴─────┐
-          ▼           ▼
-       Qdrant       Redis
-     Vector DB     Memory
+                    ┌───────────────────────┐
+                    │     React Frontend    │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │     API / Services    │
+                    └───────────┬───────────┘
+                                │
+               ┌────────────────┼────────────────┐
+               │                │                │
+               ▼                ▼                ▼
+        ┌────────────┐   ┌────────────┐   ┌────────────┐
+        │   Agent    │   │    Chat    │   │    File    │
+        │  Service   │   │  Service   │   │  Service   │
+        └─────┬──────┘   └────────────┘   └────────────┘
+              │
+              ▼
+       ┌─────────────────────┐
+       │ LangGraph Workflow  │
+       │  Multi-Agent System │
+       └──────────┬──────────┘
+                  │
+          ┌───────┼────────┐
+          │       │        │
+          ▼       ▼        ▼
+       Gemini    Groq   OpenRouter
+          │
+          ▼
+    ┌───────────────────┐
+    │    RAG Pipeline   │
+    └─────────┬─────────┘
+              │
+        ┌─────┴─────┐
+        ▼           ▼
+     Qdrant       Redis
+   Vector DB     Memory
 ````
 
+</div>
+
 ### 🔄 AI Workflow
+
+<div align="center">
 
 ```text
 User Query
@@ -238,6 +260,8 @@ Response Generation
 User Response
 ```
 
+</div>
+
 ### 🛠️ Tech Stack
 
 <p>
@@ -259,7 +283,7 @@ User Response
 
 ---
 
-# 🤖 MMT WebOps AI — Autonomous Web Operations Agent
+## 🤖 MMT WebOps AI — Autonomous Web Operations Agent
 
 > **AI-powered web operations platform for competitive intelligence,
 > web monitoring, change detection, and automated operational workflows.**
@@ -289,6 +313,8 @@ RBAC, and audit logging** into a production-oriented web operations system.
 * Production deployment with Vercel and Render
 
 ### 🔄 Agent Workflow
+
+<div align="center">
 
 ```text
 ┌─────────────────┐
@@ -338,6 +364,8 @@ RBAC, and audit logging** into a production-oriented web operations system.
 └─────────────────────┘
 ```
 
+</div>
+
 ### 🛠️ Tech Stack
 
 <p>
@@ -356,88 +384,187 @@ RBAC, and audit logging** into a production-oriented web operations system.
 
 ---
 
+<div align="center">
+
 # 🛠️ Technical Skills
 
-## 🤖 AI & Generative AI
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI & Generative AI</h3>
+
+<p align="center">
+Generative AI<br>
+LLM Applications<br>
+RAG<br>
+Multi-Agent Systems<br>
+Agentic Workflows<br>
+AI Agents<br>
+LangChain<br>
+LangGraph<br>
+Prompt Engineering<br>
+LLM APIs
 </p>
 
-`LangChain` `LangGraph` `Prompt Engineering` `LLM APIs`
-`AI Orchestration` `Retrieval-Augmented Generation`
+</td>
 
-## ⚙️ Backend Engineering
+<td width="50%" valign="top">
 
-`Node.js` `Express.js` `REST APIs` `Microservices`
-`JWT` `Authentication` `RBAC` `Redis`
+<h3 align="center">⚙️ Backend</h3>
 
-## ⚛️ Frontend Engineering
+<p align="center">
+Node.js<br>
+Express.js<br>
+REST APIs<br>
+Microservices<br>
+JWT<br>
+Authentication<br>
+RBAC<br>
+Redis
+</p>
 
-`React.js` `JavaScript` `HTML5` `CSS3`
-`Tailwind CSS` `Bootstrap`
+</td>
 
-## 🗄️ Databases & Storage
+</tr>
 
-`MongoDB` `SQL` `MySQL` `Qdrant`
-`Redis` `AWS S3`
+<tr>
 
-## 🧩 AI & Developer Ecosystem
+<td width="50%" valign="top">
 
-`Google Gemini` `Groq` `OpenRouter`
-`LangChain` `LangGraph` `Playwright`
+<h3 align="center">⚛️ Frontend</h3>
 
-## ☁️ Development & Deployment
+<p align="center">
+React.js<br>
+JavaScript<br>
+HTML5<br>
+CSS3<br>
+Tailwind CSS<br>
+Bootstrap
+</p>
 
-`Git` `GitHub` `Docker`
-`Vercel` `Render` `Linux`
-`REST APIs`
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Data & Storage</h3>
+
+<p align="center">
+MongoDB<br>
+SQL<br>
+MySQL<br>
+Qdrant<br>
+Redis<br>
+AWS S3
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧩 AI Ecosystem</h3>
+
+<p align="center">
+Google Gemini<br>
+Groq<br>
+OpenRouter<br>
+LangChain<br>
+LangGraph<br>
+Playwright
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ Development & Deployment</h3>
+
+<p align="center">
+Git<br>
+GitHub<br>
+Docker<br>
+Vercel<br>
+Render<br>
+Linux<br>
+REST APIs
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<div align="center">
 
 # 🏗️ Engineering Focus
 
-```text
-AI ENGINEERING
-│
-├── LLM Applications
-├── Retrieval-Augmented Generation
-├── Multi-Agent Systems
-├── Agentic Workflows
-├── LLM Orchestration
-├── Conversational Memory
-└── AI Tool Integration
+</div>
 
+<table align="center">
+<tr>
 
-FULL-STACK ENGINEERING
-│
-├── React.js
-├── Node.js / Express.js
-├── REST APIs
-├── Authentication
-├── RBAC
-├── Microservices
-└── MongoDB / SQL
+<td width="33%" valign="top">
 
+<h3 align="center">🧠 AI Engineering</h3>
 
-AUTOMATION & INFRASTRUCTURE
-│
-├── Playwright
-├── Redis
-├── Docker
-├── Cloud Deployment
-├── API Integration
-└── Production Debugging
-```
+<p align="center">
+LLM Applications<br>
+RAG Pipelines<br>
+Multi-Agent Systems<br>
+Agentic Workflows<br>
+LLM Orchestration<br>
+Conversational Memory<br>
+AI Tool Integration
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">💻 Full-Stack</h3>
+
+<p align="center">
+React.js<br>
+Node.js<br>
+Express.js<br>
+REST APIs<br>
+Authentication<br>
+RBAC<br>
+Microservices
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚙️ Automation</h3>
+
+<p align="center">
+Playwright<br>
+Redis<br>
+Docker<br>
+Cloud Deployment<br>
+API Integration<br>
+Production Debugging
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧠 What I Build
+## 🧠 What I Build
 
 I am particularly interested in building systems where **AI is part of the
 application architecture**, not just a conversational interface.
@@ -458,131 +585,197 @@ application architecture**, not just a conversational interface.
 
 ---
 
+<div align="center">
+
 # 🔬 AI Engineering Practices
 
-My current engineering focus includes designing AI systems around:
+</div>
 
-| Practice                  | Focus                                                |
-| ------------------------- | ---------------------------------------------------- |
-| **RAG**                   | Grounding LLM responses with retrieved knowledge     |
-| **Agent Orchestration**   | Coordinating specialized AI workflows                |
-| **Multi-Agent Systems**   | Breaking complex tasks into specialized agents       |
-| **Conversational Memory** | Maintaining context across interactions              |
-| **Human-in-the-Loop**     | Approval and review before sensitive execution       |
-| **Structured Workflows**  | Predictable AI application execution                 |
-| **API Integration**       | Connecting AI services with application backends     |
-| **Production Debugging**  | Diagnosing service and deployment issues             |
-| **AI Evaluation**         | Exploring retrieval and response quality measurement |
-| **Observability**         | Expanding knowledge of AI tracing and monitoring     |
+<table align="center">
+
+<tr>
+<th>Practice</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td><strong>RAG</strong></td>
+<td>Grounding LLM responses with retrieved knowledge</td>
+</tr>
+
+<tr>
+<td><strong>Agent Orchestration</strong></td>
+<td>Coordinating specialized AI workflows</td>
+</tr>
+
+<tr>
+<td><strong>Multi-Agent Systems</strong></td>
+<td>Breaking complex tasks into specialized agents</td>
+</tr>
+
+<tr>
+<td><strong>Conversational Memory</strong></td>
+<td>Maintaining context across interactions</td>
+</tr>
+
+<tr>
+<td><strong>Human-in-the-Loop</strong></td>
+<td>Approval and review before sensitive execution</td>
+</tr>
+
+<tr>
+<td><strong>Structured Workflows</strong></td>
+<td>Predictable AI application execution</td>
+</tr>
+
+<tr>
+<td><strong>API Integration</strong></td>
+<td>Connecting AI services with application backends</td>
+</tr>
+
+<tr>
+<td><strong>Production Debugging</strong></td>
+<td>Diagnosing service and deployment issues</td>
+</tr>
+
+<tr>
+<td><strong>AI Evaluation</strong></td>
+<td>Expanding retrieval and response quality measurement</td>
+</tr>
+
+<tr>
+<td><strong>Observability</strong></td>
+<td>Expanding AI tracing and monitoring capabilities</td>
+</tr>
+
+</table>
 
 ---
+
+<div align="center">
 
 # 📚 Currently Learning & Expanding
 
-I'm continuously expanding my AI engineering capabilities in:
+</div>
 
-```text
-GENERATIVE AI
-│
-├── Advanced RAG
-├── Agentic AI
-├── Multi-Agent Architectures
-├── LLM Evaluation
-└── AI Observability
+<table align="center">
+<tr>
 
+<td width="33%" valign="top">
 
-BACKEND & SYSTEMS
-│
-├── Microservices
-├── Distributed Systems
-├── API Design
-└── Production Reliability
+<h3 align="center">🤖 Generative AI</h3>
 
+<p align="center">
+Advanced RAG<br>
+Agentic AI<br>
+Multi-Agent Architectures<br>
+LLM Evaluation<br>
+AI Observability
+</p>
 
-AI ENGINEERING
-│
-├── Python
-├── FastAPI
-├── Evaluation Frameworks
-├── LLM Monitoring
-└── AI Performance Optimization
-```
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚙️ Backend & Systems</h3>
+
+<p align="center">
+Microservices<br>
+Distributed Systems<br>
+API Design<br>
+Production Reliability
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🔬 AI Engineering</h3>
+
+<p align="center">
+Python<br>
+FastAPI<br>
+Evaluation Frameworks<br>
+LLM Monitoring<br>
+AI Performance Optimization
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<div align="center">
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sudhakar961612&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Sudhakar's GitHub Stats"
-  />
-</p>
+<br>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar961612&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api?username=sudhakar961612&show_icons=true&hide_border=true&rank_icon=github"
+alt="Sudhakar's GitHub Stats"
+/>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakar961612&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar961612&layout=compact&hide_border=true"
+alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakar961612&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
 
 ---
+
+<div align="center">
 
 # 🎯 Career Focus
 
-I'm interested in opportunities involving:
+### AI Engineering · Generative AI · LLM Applications · Multi-Agent Systems
 
-```text
-AI ENGINEERING
-Generative AI
-LLM Applications
-Multi-Agent Systems
-RAG
-Agentic AI
-AI Automation
-AI Full-Stack Development
-Backend Engineering for AI
-```
+<table>
+<tr>
 
-I'm particularly interested in building **production-oriented AI systems**
+<td align="center">
+🤖<br>
+<strong>Generative AI</strong>
+</td>
+
+<td align="center">
+🧠<br>
+<strong>Multi-Agent Systems</strong>
+</td>
+
+<td align="center">
+🔎<br>
+<strong>RAG</strong>
+</td>
+
+<td align="center">
+⚙️<br>
+<strong>AI Automation</strong>
+</td>
+
+<td align="center">
+💻<br>
+<strong>AI Full-Stack</strong>
+</td>
+
+</tr>
+</table>
+
+<p>
+I'm interested in building <strong>production-oriented AI systems</strong>
 that combine intelligent reasoning with reliable software engineering.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/sudhakar-pandey-929638188">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Sudhakar961612">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:s3xhdhh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </p>
 
----
-
-<p align="center">
-  <strong>
-    Building intelligent systems where AI, automation, and software engineering come together.
-  </strong>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories.
-</p>
-
+<
