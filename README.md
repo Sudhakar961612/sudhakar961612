@@ -1,259 +1,197 @@
-# Hi, I'm Sudhakar Pandey 👋
+<h1 align="center">Hi, I'm Sudhakar Pandey</h1>
 
-### AI Full-Stack Engineer · Generative AI · Multi-Agent Systems · RAG
+<h3 align="center">AI Full-Stack Engineer | Generative AI | Multi-Agent Systems | RAG | MERN</h3>
 
-I build **AI-powered full-stack applications** that combine intelligent agent workflows with production-oriented web systems.
+<p align="center">
+  Building production-oriented AI applications that combine intelligent agents, LLMs, APIs, automation, and modern web technologies.
+</p>
 
-My work spans **LLM applications, RAG pipelines, multi-agent architectures, backend APIs, frontend systems, automation, databases, and cloud deployment**.
-
-> **I focus on building working systems where AI is part of the architecture — not just a chatbot feature.**
+<p align="center">
+  <a href="https://linkedin.com/in/sudhakar-pandey-929638188">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sudhakar961612">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 What I Work On
+## About Me
 
-<table>
-<tr>
-<td width="50%">
+I'm an **AI Full-Stack Engineer** focused on building intelligent, scalable web applications using **Generative AI, LLMs, multi-agent architectures, RAG pipelines, and modern full-stack technologies**.
 
-### 🤖 AI Engineering
+My work sits at the intersection of **AI engineering and full-stack development** — from designing agent workflows and integrating LLMs to building APIs, authentication, databases, frontend interfaces, automation workflows, and deploying applications to the cloud.
 
-* LLM-powered applications
-* Multi-agent systems
-* Agentic workflows
-* RAG pipelines
+I enjoy turning complex requirements into **working, production-oriented systems** rather than building AI features in isolation.
+
+### Currently focused on
+
+* Generative AI & LLM application development
+* Multi-Agent Systems & Agentic Workflows
+* RAG (Retrieval-Augmented Generation)
 * LangChain & LangGraph
-* LLM API integration
-* AI orchestration
-* Tool-using AI agents
-
-</td>
-<td width="50%">
-
-### ⚙️ Full-Stack Engineering
-
-* React.js applications
-* Node.js / Express.js APIs
-* REST API architecture
-* Authentication & RBAC
+* LLM APIs and AI orchestration
+* React.js & modern frontend development
+* Node.js & Express.js backend development
 * MongoDB & SQL
-* Redis & vector databases
-* Web automation
-* Cloud deployment
-
-</td>
-</tr>
-</table>
+* REST APIs, authentication and RBAC
+* Web automation with Playwright
+* Cloud deployment and production debugging
 
 ---
 
-# 🧩 Featured Projects
+## Featured Projects
 
-### 01 · MMT WebOps AI
+### 🤖 MMT WebOps AI — Autonomous Web Operations Agent
 
-**Autonomous Web Operations Agent**
+An AI-powered web operations platform designed to automate competitive intelligence and web monitoring workflows.
 
-An AI-powered web operations platform designed to automate **competitive intelligence, web monitoring and operational workflows**.
-
-**What it does**
+**Key areas:**
 
 * AI-driven task planning and execution
-* Automated web monitoring with Playwright
-* Hotel & flight price monitoring
+* Autonomous web monitoring using Playwright
+* Competitor hotel and flight price monitoring
 * Campaign and partner-page monitoring
-* Snapshot & change detection
-* AI-generated insights
-* Confidence & severity scoring
-* Human approval workflows
-* RBAC, audit logs & scheduled tasks
-* Production deployment
+* Snapshot and change detection
+* AI-generated insights and confidence scoring
+* Approval-based execution workflows
+* RBAC, audit logs and scheduled tasks
+* Production deployment with Vercel + Render
 
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `Playwright` `Gemini` `JWT` `RBAC` `Cron` `REST APIs`
+**Tech:** React.js · Node.js · Express.js · MongoDB · Playwright · Gemini API · JWT · RBAC · Cron · REST APIs
 
 ---
 
-### 02 · AI Multi-Agent Knowledge Assistant
+### 🧠 AI Multi-Agent Knowledge Assistant
 
-**Multi-Agent RAG & Knowledge System**
+A multi-agent AI application designed to process knowledge sources and provide intelligent conversational assistance using agent orchestration and retrieval-based generation.
 
-A multi-agent AI application that combines **agent orchestration, retrieval-augmented generation and microservices** to create an intelligent knowledge assistant.
-
-**What it does**
+**Key areas:**
 
 * Multi-agent architecture
-* LangGraph agent workflows
-* RAG-based knowledge retrieval
-* Document processing
-* Vector search
-* Conversational AI
-* Redis-based memory
-* Microservice backend
-* AI-generated presentations & documents
-* Independent frontend/backend deployment
+* LangGraph-based agent workflows
+* RAG pipelines
+* Document processing and retrieval
+* Vector database integration
+* LLM-powered conversations
+* Microservice-based backend architecture
+* Redis-based conversational memory
+* AI-generated documents and presentations
+* Separate frontend and backend deployment
 
-**Stack**
-
-`React` `Node.js` `Express` `LangGraph` `LangChain` `RAG` `Gemini` `Groq` `OpenRouter` `Qdrant` `Redis` `MongoDB` `AWS S3`
+**Tech:** React.js · Node.js · Express.js · LangGraph · LangChain · RAG · Gemini · Groq · OpenRouter · Qdrant · Redis · MongoDB · AWS S3
 
 ---
 
-### 03 · MERN Job Portal
+### 💼 MERN Job Portal
 
-**Full-Stack Recruitment Platform**
+A full-stack job portal with role-based functionality for candidates and administrators.
 
-A MERN-based recruitment platform with authentication, candidate workflows and administrative capabilities.
+**Key areas:**
 
-**Highlights**
-
-* Authentication & authorization
-* Role-based functionality
-* Job creation & management
+* User authentication and authorization
+* Job creation and management
 * Candidate workflows
-* Admin operations
-* RESTful APIs
+* Admin functionality
+* RESTful backend APIs
 * MongoDB data management
 
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `REST APIs`
+**Tech:** React.js · Node.js · Express.js · MongoDB · JWT · REST APIs
 
 ---
 
-# 🛠️ Technical Stack
+## Technical Skills
 
-### Artificial Intelligence
+### AI & Generative AI
 
-`Generative AI` · `LLM Applications` · `RAG` · `AI Agents` · `Multi-Agent Systems` · `Agentic Workflows`
-
-### AI Frameworks & Platforms
-
-`LangChain` · `LangGraph` · `Google Gemini` · `Groq` · `OpenRouter`
-
-### Frontend
-
-`React.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap`
+`Generative AI` `LLM Applications` `RAG` `Multi-Agent Systems` `LangChain` `LangGraph` `Prompt Engineering` `LLM APIs` `AI Agents`
 
 ### Backend
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `RBAC` · `Microservices` · `Redis`
+`Node.js` `Express.js` `REST APIs` `JWT` `RBAC` `Authentication` `Microservices` `Redis`
 
-### Data & Storage
+### Frontend
 
-`MongoDB` · `SQL` · `MySQL` · `Qdrant` · `Redis` · `AWS S3`
+`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
 
-### Automation & Infrastructure
+### Databases & Storage
 
-`Playwright` · `Docker` · `Git` · `GitHub` · `Vercel` · `Render` · `Linux`
+`MongoDB` `SQL` `MySQL` `Qdrant` `Redis` `AWS S3`
+
+### AI / Developer Ecosystem
+
+`Google Gemini` `Groq` `OpenRouter` `Playwright` `LangChain` `LangGraph`
+
+### Development & Deployment
+
+`Git` `GitHub` `Docker` `Vercel` `Render` `Linux` `REST APIs`
 
 ---
 
-# 🏗️ Engineering Focus
+## Engineering Focus
 
 ```text
-                    AI FULL-STACK ENGINEERING
-                              │
-             ┌────────────────┴────────────────┐
-             │                                 │
-       AI ENGINEERING                    APPLICATION ENGINEERING
-             │                                 │
-       ├── LLM Apps                      ├── React.js
-       ├── RAG                            ├── Node.js
-       ├── AI Agents                      ├── Express.js
-       ├── Multi-Agent                    ├── REST APIs
-       ├── LangGraph                      ├── Authentication
-       └── AI Tooling                     └── RBAC
-             │                                 │
-             └────────────────┬────────────────┘
-                              │
-                    AUTOMATION & INFRASTRUCTURE
-                              │
-                    ├── Playwright
-                    ├── Redis
-                    ├── Docker
-                    ├── Cloud Deployment
-                    └── Production Debugging
+AI Engineering
+    ├── LLM Applications
+    ├── RAG Pipelines
+    ├── Multi-Agent Systems
+    ├── Agentic Workflows
+    └── AI Tool Integration
+
+Full-Stack Engineering
+    ├── React.js
+    ├── Node.js / Express.js
+    ├── REST APIs
+    ├── Authentication / RBAC
+    └── MongoDB / SQL
+
+Automation & Infrastructure
+    ├── Playwright
+    ├── Redis
+    ├── Docker
+    ├── Cloud Deployment
+    └── Production Debugging
 ```
 
 ---
 
-# ⚡ What I Build
+## What I Build
 
-I am interested in systems where **AI actively participates in application workflows**.
+I am particularly interested in building systems where **AI is part of the application architecture**, not just a chatbot interface.
 
-### → Intelligent Agents
+Some areas I work with:
 
-AI systems that can reason about a task, select tools and execute multi-step workflows.
-
-### → Knowledge Systems
-
-RAG applications that connect LLMs with documents, vector databases and external knowledge.
-
-### → AI Automation
-
-Systems that use AI + browser automation to monitor, analyze and act on real-world web data.
-
-### → Production Applications
-
-Full-stack systems connecting AI services with APIs, databases, authentication, frontend interfaces and cloud infrastructure.
-
-### → Human-in-the-Loop Systems
-
-Applications where AI can operate autonomously while important actions remain reviewable and controllable.
+* AI agents that can plan and execute tasks
+* Retrieval systems that ground LLM responses in external knowledge
+* Multi-agent workflows for complex tasks
+* AI-powered automation
+* Full-stack applications with LLM capabilities
+* Production APIs connecting AI services with web applications
+* Human-in-the-loop approval and monitoring systems
 
 ---
 
-# 📊 GitHub
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhakar961612&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudhakar961612&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar961612&layout=compact&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar961612&layout=compact&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sudhakar961612&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakar961612&hide_border=true" />
+</p>
 
 ---
 
-# 🎯 Current Direction
+## Connect
 
-Currently deepening my work in:
-
-**Generative AI → LLM Applications → RAG → LangGraph → Multi-Agent Systems → AI Automation → AI Full-Stack Engineering**
-
-I am particularly interested in building **reliable, observable and production-oriented AI systems** rather than isolated AI demos.
-
----
-
-# 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/sudhakar961612">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sudhakar-pandey-929638188">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://portfolio-theta-black-47.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Building intelligent systems. Engineering for production.**
-
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/sudhakar-pandey-929638188">LinkedIn</a> ·
+  <a href="https://github.com/Sudhakar961612">GitHub</a> ·
+  <a href="mailto:s3xhdhh@gmail.com">Email</a>
+</p>
