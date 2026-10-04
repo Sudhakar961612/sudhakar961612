@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # Hi, I'm Sudhakar Pandey 👋
@@ -778,4 +778,37 @@ I'm interested in building <strong>production-oriented AI systems</strong>
 that combine intelligent reasoning with reliable software engineering.
 </p>
 
-<
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/sudhakar-pandey-929638188">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Sudhakar961612">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:s3xhdhh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<strong>
+Building intelligent systems where AI, automation, and software engineering come together.
+</strong>
+
+<br><br>
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
+
+</div>
+
